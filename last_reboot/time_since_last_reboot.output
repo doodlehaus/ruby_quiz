@@ -1,0 +1,6 @@
+lib/daemon.rb:16:in `block in <main>': undefined method `accept_conn' for main:Object (NoMethodError)
+	from lib/daemon.rb:15:in `loop'
+	from lib/daemon.rb:15:in `<main>'
+lib/daemon.rb:16:in `block in <main>': undefined method `accept_conn' for main:Object (NoMethodError)
+	from lib/daemon.rb:15:in `loop'
+	from lib/daemon.rb:15:in `<main>'

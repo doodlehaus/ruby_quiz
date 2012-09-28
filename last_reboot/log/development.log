@@ -1,0 +1,130 @@
+# Logfile created on 2012-06-26 19:39:05 -0500 by logger.rb/31641
+2012-06-26 19:39:05.211169 last_reboot(2414) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 19:39:05.211366 last_reboot(2414) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 19:39:05.211525 last_reboot(2414) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 19:39:05.211649 last_reboot(2414) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 19:39:05.211786 last_reboot(2414) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 19:39:05.211929 last_reboot(2414) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 19:39:05.212366 last_reboot(2414) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 19:39:05.212475 last_reboot(2414) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 19:39:22.5137 last_reboot(2416) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 19:39:22.5292 last_reboot(2416) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 19:39:22.5370 last_reboot(2416) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 19:39:22.5438 last_reboot(2416) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 19:39:22.5507 last_reboot(2416) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 19:39:22.5575 last_reboot(2416) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 19:39:22.5845 last_reboot(2416) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 19:39:22.5906 last_reboot(2416) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 19:40:40.224847 last_reboot(2423) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 19:40:40.225141 last_reboot(2423) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 19:40:40.225297 last_reboot(2423) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 19:40:40.225425 last_reboot(2423) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 19:40:40.225559 last_reboot(2423) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 19:40:40.225702 last_reboot(2423) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 19:40:40.226205 last_reboot(2423) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 19:40:40.226320 last_reboot(2423) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 19:42:46.41327 last_reboot(2440) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 19:42:46.41631 last_reboot(2440) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 19:42:46.41796 last_reboot(2440) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 19:42:46.41930 last_reboot(2440) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 19:42:46.42068 last_reboot(2440) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 19:42:46.42214 last_reboot(2440) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 19:42:46.42656 last_reboot(2440) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 19:42:46.42771 last_reboot(2440) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 19:49:22.996498 last_reboot(2470) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 19:49:22.996820 last_reboot(2470) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 19:49:22.996993 last_reboot(2470) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 19:49:22.997132 last_reboot(2470) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 19:49:22.997279 last_reboot(2470) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 19:49:22.997437 last_reboot(2470) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 19:49:22.997881 last_reboot(2470) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 19:49:22.997995 last_reboot(2470) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 19:58:02.180716 last_reboot(2664) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 19:58:02.180866 last_reboot(2664) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 19:58:02.180944 last_reboot(2664) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 19:58:02.181011 last_reboot(2664) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 19:58:02.181092 last_reboot(2664) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 19:58:02.181157 last_reboot(2664) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 19:58:02.181428 last_reboot(2664) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 19:58:02.181490 last_reboot(2664) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 19:58:38.8013 last_reboot(2673) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 19:58:38.8174 last_reboot(2673) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 19:58:38.8254 last_reboot(2673) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 19:58:38.8324 last_reboot(2673) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 19:58:38.8392 last_reboot(2673) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 19:58:38.8458 last_reboot(2673) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 19:58:38.9730 last_reboot(2673) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booted, now running last_reboot
+2012-06-26 19:58:38.413531 last_reboot(2673) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 19:58:38.413611 last_reboot(2673) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 19:58:53.935770 last_reboot(2761) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 19:58:53.935942 last_reboot(2761) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 19:58:53.936020 last_reboot(2761) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 19:58:53.936087 last_reboot(2761) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 19:58:53.936154 last_reboot(2761) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 19:58:53.936222 last_reboot(2761) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 19:58:53.937489 last_reboot(2761) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booted, now running last_reboot
+2012-06-26 19:58:53.971701 last_reboot(2761) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 19:58:53.971781 last_reboot(2761) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 20:13:46.504553 last_reboot(2871) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 20:13:46.504754 last_reboot(2871) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 20:13:46.504861 last_reboot(2871) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 20:13:46.504959 last_reboot(2871) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 20:13:46.505056 last_reboot(2871) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 20:13:46.505152 last_reboot(2871) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 20:13:46.507722 last_reboot(2871) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booted, now running last_reboot
+2012-06-26 20:13:46.560382 last_reboot(2871) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 20:13:46.560475 last_reboot(2871) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 20:15:50.772919 last_reboot(2963) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 20:15:50.773093 last_reboot(2963) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 20:15:50.773268 last_reboot(2963) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 20:15:50.773390 last_reboot(2963) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 20:15:50.773500 last_reboot(2963) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 20:15:50.773603 last_reboot(2963) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 20:15:50.775321 last_reboot(2963) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booted, now running last_reboot
+2012-06-26 20:15:50.816396 last_reboot(2963) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 20:15:50.816524 last_reboot(2963) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 20:17:19.238560 last_reboot(2969) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 20:17:19.238713 last_reboot(2969) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 20:17:19.238790 last_reboot(2969) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 20:17:19.238878 last_reboot(2969) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 20:17:19.238947 last_reboot(2969) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 20:17:19.239011 last_reboot(2969) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 20:17:19.240225 last_reboot(2969) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booted, now running last_reboot
+2012-06-26 20:17:19.289804 last_reboot(2969) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 20:17:19.289886 last_reboot(2969) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 20:17:49.350388 last_reboot(2974) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 20:17:49.350552 last_reboot(2974) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 20:17:49.350630 last_reboot(2974) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 20:17:49.350695 last_reboot(2974) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 20:17:49.350762 last_reboot(2974) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 20:17:49.350828 last_reboot(2974) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 20:17:49.352091 last_reboot(2974) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booted, now running last_reboot
+2012-06-26 20:17:49.389309 last_reboot(2974) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 20:17:49.389390 last_reboot(2974) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 20:18:39.576796 last_reboot(2978) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 20:18:39.576943 last_reboot(2978) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 20:18:39.577019 last_reboot(2978) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 20:18:39.577087 last_reboot(2978) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 20:18:39.577153 last_reboot(2978) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 20:18:39.577217 last_reboot(2978) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 20:18:39.578487 last_reboot(2978) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booted, now running last_reboot
+2012-06-26 20:18:39.578611 last_reboot(2978) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 20:18:39.578663 last_reboot(2978) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 20:24:59.928210 last_reboot(3098) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 20:24:59.928367 last_reboot(3098) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 20:24:59.928446 last_reboot(3098) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 20:24:59.928515 last_reboot(3098) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 20:24:59.928581 last_reboot(3098) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 20:24:59.928646 last_reboot(3098) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 20:24:59.929943 last_reboot(3098) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booted, now running last_reboot
+2012-06-26 20:24:59.930060 last_reboot(3098) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 20:24:59.930113 last_reboot(3098) [WARN] [daemon-kit]: Shutting down last_reboot
+2012-06-26 20:27:49.212791 last_reboot(3149) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booting in development mode
+2012-06-26 20:27:49.212945 last_reboot(3149) [INFO] [daemon-kit]: Setting up trap for USR1
+2012-06-26 20:27:49.213022 last_reboot(3149) [INFO] [daemon-kit]: Setting up trap for USR2
+2012-06-26 20:27:49.213090 last_reboot(3149) [INFO] [daemon-kit]: Setting up trap for HUP
+2012-06-26 20:27:49.213157 last_reboot(3149) [INFO] [daemon-kit]: Setting up trap for INT
+2012-06-26 20:27:49.213221 last_reboot(3149) [INFO] [daemon-kit]: Setting up trap for TERM
+2012-06-26 20:27:49.214469 last_reboot(3149) [INFO] [daemon-kit]: DaemonKit (0.1.8.2) booted, now running last_reboot
+2012-06-26 20:27:49.214601 last_reboot(3149) [INFO] [daemon-kit]: Running shutdown hooks
+2012-06-26 20:27:49.214653 last_reboot(3149) [WARN] [daemon-kit]: Shutting down last_reboot
